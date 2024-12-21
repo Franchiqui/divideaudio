@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+spleeter
+tensorflow-cpu==2.9.0
+ffmpeg-python
+librosa
+musdb
+norbert
+numpy
+pandas
+tqdm
+typing-extensions>=4.12.0
+wheel
+responses
+python-multipart
+
